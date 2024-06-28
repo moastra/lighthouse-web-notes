@@ -7,5 +7,5 @@
 This repository contains all of the notes taken by [Mathew](https://github.com/moastra) for the Lighthouse Labs Web Development Bootcamp. 
 
 ### Table of Contents
-- [Week 1](/Week_1)
-  - [Day 1](/Week_1/Day_1/)
+- [F. O. C. A. L. (<b>F</b>unctions - <b>O</b>bjects - <b>C</b>onditionals - <b>A</b>rrays - <b>L</b>oops)](/FOCAL)
+  - [Day 1](/FOCAL/Day_1/)
